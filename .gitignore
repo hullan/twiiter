@@ -25,3 +25,6 @@ hs_err_pid*
 
 twitter4j.properties
 test.txt
+.project
+.classpath
+.settings
